@@ -1,2 +1,2 @@
-# dio-desafio-github-bootcamp-avanade-decola
-Desafio de Projeto sobre Git/Github no Bootcamp: Avanade Decola
+# Repositório do Desafio de Projeto sobre Git/Github no Bootcamp: Avanade Decola da DIO
+Desafio de Projeto sobre Git/Github no Bootcamp: Avanade Decola da Dio
